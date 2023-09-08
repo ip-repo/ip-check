@@ -21,7 +21,7 @@ mkdir ip-cli #Create a new directory.
 
 cd ip-cli    #Navigate to the new folder.
 
-git clone ... #Clone this repo.
+git clone https://github.com/ip-repo/ip-checker.git #Clone this repo.
 
 python3 -m venv env-directory #Create a new virtual enivronment.
 

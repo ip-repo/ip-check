@@ -27,9 +27,9 @@ python3 -m venv env-directory #Create a new virtual enivronment.
 
 source env-directory/bin/activate #activate env
 
-pip install -r repo-directory/requirements.txt #Install requiered python packages.
+pip install -r ip-checker/requirements.txt #Install requiered python packages.
 
-python3 repo-directory/get_public_ip.py #Run the script.
+python3 ip-checker/get_public_ip.py #Run the script.
 
 ```
 

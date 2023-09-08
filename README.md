@@ -6,9 +6,10 @@ The user can choose the <b>type</b> of ip address he want and also to copy it.
 <br><br>
 <h2>The options are:</h4>
 <ul>
-<li>-1 or --ipv4 : print the public ipv4 address.</li>
+<li>-1 or --ipv4: print the public ipv4 address.</li>
 <li>-2 or --ipv6: print the  public ipv6 address.</li>
 <li>-3 or --both: print the public ipv4 and ipv6 address.</li>
+<li>-4 or --gui: launch gui</li>
 <li>-c or --copy: copy to cliboard the ip address.</li>
 <li><b>no option: the program will act as if -1 was picked.</b></li>
 </ul>

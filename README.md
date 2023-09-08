@@ -78,8 +78,6 @@ Create alias for this script.
 sudo nano .bashrc
 
 alias yourcommandname="/full/path/to/script.sh"
-
-
 ```
 Now run the command.
 ```console 

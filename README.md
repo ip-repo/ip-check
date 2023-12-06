@@ -22,15 +22,15 @@ mkdir ip-cli #Create a new directory.
 
 cd ip-cli    #Navigate to the new folder.
 
-git clone https://github.com/ip-repo/ip-checker.git #Clone this repo.
+git clone https://github.com/ip-repo/ip-check.git #Clone this repo.
 
 python3 -m venv env-directory #Create a new virtual enivronment.
 
 source env-directory/bin/activate #activate env
 
-pip install -r ip-checker/requirements.txt #Install requiered python packages.
+pip install -r ip-check/requirements.txt #Install requiered python packages.
 
-python3 ip-checker/get_public_ip.py #Run the script.
+python3 ip-check/get_public_ip.py #Run the script.
 
 ```
 
